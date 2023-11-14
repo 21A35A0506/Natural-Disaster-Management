@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="survey.css"/>
+    <title>Document</title>
+</head>
+<body>
+    <div class="menu"
+    <center><h1> SURVEY INFORMATION</h1>
+           
+    </div>
+    <div class="pass">
+        <img style="float: right; margin-left: 40px;" src="natural disasters.jpeg" class="pass" width="500" height="300"/>
+        <h1>Domian of the project:<h2>Natural Disasters</h2></h1>
+        
+        <h1>Team memers list:</h1>
+        
+        <li class="list">Harika.Neela(21A35A0503)</li>
+        <li class="list">Ganga Ravi Priya.Edida(21A35A0502)</li>
+        <li class="list">Surya Revathi.Ainavilli(21A35A0501)</li>
+        <li class="list">Avinash(21A35A0506)</li>
+        
+
+    </div>
+    <div class="body">
+        <h1> Individual Survey Details:</h1>
+        <p class="par">As part of this program we visited Uppada:Andhra 
+            Coastal Village and conducted survey on the Natural 
+            Disasters like floods, cyclones, Earthquakes, 
+            Tsunamis,Storms etc.
+            We collected data from 300 Members of the Village 
+            regarding the situation of the coastal village during 
+            Natural Disasters.And,we asked villagers a few queries 
+            about Natural Disasters and we recorded all their 
+            responses.</p>
+        <h1 style="margin-top: 30px">Individual Survey Photos</h1>
+        <h1 style="margin-top: 40px">Harika.Neela Individual Survey Photos:</h1>
+        <img style="float: left; margin-left: 40px;" src="harika 1.jpg" class="body" width="500" height="500"/>
+        <img style="float: right; margin-left: 40px;" src="harika 2.jpg" class="hi" width="500" height="500"/>
+        <img style="float: left; margin-left: 40px;" src="harika 3.jpg" class="na" width="500" height="500"/>
+        <img style="float: right; margin-left: 40px;" src="harika 4.jpg" class="la" width="500" height="500"/>
+ 
+        
+        <h1 style="margin-top: 40px";>Ganga Ravi Priya.Edida Individual Survey Photos:</h1>
+        <img style="float: left; margin-left: 40px;" src="priya 1.jpg" class="body" width="500" height="500"/>
+        <img style="float: right; margin-left: 40px;" src="priya 2.jpg" class="hi" width="500" height="500"/>
+        <img style="float: left; margin-left: 40px;" src="priya 3.jpg" class="body" width="500" height="500"/>
+        <img style="float: right; margin-left: 40px;" src="priya 4.jpg" class="hi" width="500" height="500"/>
+    
+        
+        <h2>Surya Revathi.Ainavilli Individual Survey Photos:</h2>
+        <img style="float: left; margin-left: 40px;" src="revathi 1.jpg" class="body" width="500" height="500"/>
+        <img style="float: right; margin-left: 40px;" src="revathi2.jpg" class="hi" width="500" height="500"/>
+        <img style="float: left; margin-left: 40px;" src="revathi 3.jpg" class="body" width="500" height="500"/>
+        <img style="float: right; margin-left: 40px;" src="revathi 4.jpg" class="hi" width="500" height="500"/>
+    
+        
+        <h2>Avinash SIndividual Survey Photos:</h2>
+        <img style="float: left; margin-left: 40px;" src="avinash 1.jpg" class="body" width="500" height="500"/>
+        <img style="float: right; margin-left: 40px;" src="avinash 2.jpg" class="hi" width="500" height="500"/>
+        <img style="float: left; margin-left: 40px;" src="avinash 3.jpg" class="body" width="500" height="500"/>
+        <img style="float: right; margin-left: 40px;" src="avinash 4.jpg" class="hi" width="500" height="500"/>
+    </div>
+    <div class="body1">
+        <h1 style="margin-top: 40px";> Awareness camp details: </h1>
+        <p class="prag">As a part of Community Service Project We Conducted 
+            Awareness Program on Natural Disasters Management
+            Where we aware people about Natural Disasters and 
+            preventive measures to be taken in case of Natural 
+            Disasters.</p>
+            <h1>Awareness Camp Photos:</h1>
+            <img style="float: left; margin-left: 40px;" src="avinash 1.jpg" class="body" width="500" height="500"/>
+        <img style="float: right; margin-left: 40px;" src="avinash 2.jpg" class="hi" width="500" height="500"/>
+        <img style="float: left; margin-left: 40px;" src="avinash 3.jpg" class="body" width="500" height="500"/>
+        <img style="float: right; margin-left: 40px;" src="harika 4.jpg" class="hi" width="500" height="500"/>
+        <h1> Awareness  campaign poster</h1>
+        <img style="float: center; margin-left: 40px;" src="poster nd.jpg" class="ha" width="500" height="500"/>
+    </div>
+
+</body>
+</html>
