@@ -5,7 +5,7 @@ The Natural Disasters Management is an information portal about various natural 
 
 ### This Web Based Application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-**Project Link(Github Repository Link)** - https://github.com/21A35A0503/Natural-Disaster-Management.git  <br>
+**Project Link(Github Repository Link)** - https://github.com/21A35A0506/Natural-Disaster-Management <br>
 **Project Demo URL** - https://agreeable-field-0c5ebde00.3.azurestaticapps.net/ <br>
 **Project Demo Video Link** - https://youtu.be/bYFMw8Uy5V4
 
@@ -86,11 +86,6 @@ The HealthBot includes information about health issues occurred at the time of n
 - CSS
 - Javascript
 
-## Team Members -
-### Harika Neela ([@21A35A0503](https://github.com/21a35a0503))
-### Ganga Ravi Priya Edida ([@21A35A0502](https://github.com/21a35a0502))
-### Surya Revathi Ainavilli ([@21A35A0501](https://github.com/21a35a0501))
-### Venkata Satya Aakash Yarrapragada ([@20A31A0565](https://github.com/20a31a0565))
   
 
 
